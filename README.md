@@ -26,3 +26,7 @@ npm install
 npx cypress open
 
 ```
+
+## Improvements
+
+Add Categories test behaviors to cy.commands
