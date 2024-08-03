@@ -27,6 +27,6 @@ npx cypress open
 
 ```
 
-## Improvements
+## To Improve
 
 Add Categories test behaviors to cy.commands
