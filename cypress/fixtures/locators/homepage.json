@@ -1,0 +1,5 @@
+{
+    "homeLocators": {
+        "categoriesMenuBtn": ":nth-child(3) > .nav-link"
+    }
+}

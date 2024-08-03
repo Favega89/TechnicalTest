@@ -1,0 +1,11 @@
+{
+    "loginLocators": {
+        "textBoxIcon": ".input-group-prepend i",
+        "emailIconClass": "ni-email-83",
+        "lockIconClass": "ni-lock-circle-open",
+        "emailTextBox": "input[formcontrolname='email']",
+        "passwordTextBox": "input[formcontrolname='password']",
+        "customControlCheckbox": ".custom-control-input",
+        "customControlLabel": ".custom-control-label > .text-muted"
+    }
+}

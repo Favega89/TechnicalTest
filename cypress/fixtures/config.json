@@ -1,0 +1,4 @@
+{
+    "rootUrl": "https://api.club-administration.qa.qubika.com/",
+    "loginPage": "https://club-administration.qa.qubika.com/#/auth/login"
+}

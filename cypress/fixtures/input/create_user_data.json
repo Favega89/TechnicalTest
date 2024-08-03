@@ -1,0 +1,7 @@
+{
+  "email": "newUser@qubika.com",
+  "password": "pass1234",
+  "roles": [
+    "ROLE_ADMIN"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "66ad957f93f74246353efa68",
+  "userName": "newUser1722652036327",
+  "email": "newUser1722652036327@qubika.com",
+  "password": "$2a$10$JWtDo61/IgAh6U6D7nnaQ.rfVZSjg7hykW6Cif5SR6D5TVMXd2dDm",
+  "roles": [
+    "ROLE_ADMIN"
+  ],
+  "firstName": null,
+  "lastName": null,
+  "fullName": null
+}

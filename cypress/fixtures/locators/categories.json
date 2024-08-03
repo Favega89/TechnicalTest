@@ -1,0 +1,10 @@
+{
+    "categoriesLocators": {
+        "addCategoryBtn": ".btn-primary",
+        "nameTextBox": "#input-username",
+        "acceptBtn": ".btn-primary.my-3",
+        "pagesIndex": ".page-link",
+        "subCattegoryCheck": ".custom-control-label",
+        "cattegoriesList": ".ng-input > input"
+    }
+}
